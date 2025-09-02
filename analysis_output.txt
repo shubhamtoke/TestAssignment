@@ -1,0 +1,18 @@
+FUNCTIONAL REQUIREMENTS:
+- User can add products to cart from product detail page
+- User can update item quantities in the cart
+- User can remove items from the cart
+- Cart displays total price including tax
+- Cart persists during the user session
+- Maximum 10 items of any single product allowed
+- Out-of-stock items cannot be added to cart
+
+NON-FUNCTIONAL REQUIREMENTS:
+- None specified
+
+EDGE CASES:
+- What happens when a user tries to add more than 10 items of the same product?
+- How will out-of-stock items be handled if they become available during the user session?
+
+GAPS IDENTIFIED:
+- None identified

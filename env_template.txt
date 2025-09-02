@@ -1,0 +1,8 @@
+# No API keys required for local Ollama usage
+## If you plan to use OpenAI or other providers, add them here.
+# OPENAI_API_KEY=your_openai_api_key_here
+
+# Optional app config
+# DEBUG=True
+# LOG_LEVEL=INFO
+

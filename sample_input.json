@@ -1,0 +1,14 @@
+{
+  "user_story": "As a customer, I want to add products to my shopping cart and modify quantities, so that I can purchase multiple items in a single order.",
+  "acceptance_criteria": [
+    "User can add products to cart from product detail page",
+    "User can update item quantities in the cart",
+    "User can remove items from the cart",
+    "Cart displays total price including tax",
+    "Cart persists during the user session",
+    "Maximum 10 items of any single product allowed",
+    "Out-of-stock items cannot be added to cart",
+    "Cart shows item availability status",
+    "User receives confirmation when items are added/removed"
+  ]
+}
